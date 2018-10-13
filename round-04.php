@@ -1,5 +1,5 @@
 <?php
-include ("includes/templates/header.php")
+include("includes/templates/header.php")
 ?>
 <div class="row">
 	<div class="col-lg">
@@ -23,7 +23,7 @@ include ("includes/templates/header.php")
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- ----------------------------------Question 2---------------------------------- -->
 
 		<div class="carousel-item">
@@ -38,7 +38,7 @@ include ("includes/templates/header.php")
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- ----------------------------------Question 3---------------------------------- -->
 
 		<div class="carousel-item">
@@ -202,7 +202,7 @@ for (var i=0; i<lengthOfArray;i++){
 </script>
 
 <?php
-include ("includes/templates/footer.php")
+include("includes/templates/footer.php")
 ?>
 
 
